@@ -1,0 +1,35 @@
+#quote-box {
+    background-color : white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#author {
+  text-align: right;
+  padding-right: 5%;
+  font-size: 1.8vw;
+}
+
+#new-quote {
+  color : white;
+  font-size: 1.6vw;
+  
+}
+
+#text {
+  text-align: center;
+  margin: 10%;
+  font-size: 2vw;
+    
+}
+
+#tweet-design {
+  color : white;
+  font-size: 2vw;
+}
+
+#styling {
+  text-align: right;
+} 
